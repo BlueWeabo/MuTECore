@@ -1,4 +1,4 @@
-package com.blueweabo.mutecore.api.inventories;
+package com.gtnewhorizons.mutecore.api.inventories;
 
 /*
 For logic

@@ -1,10 +1,7 @@
-package com.blueweabo.mutecore.api.inventories;
+package com.gtnewhorizons.mutecore.api.inventories;
 
 import com.cleanroommc.modularui.utils.fluid.FluidTankLong;
 import com.cleanroommc.modularui.utils.item.ItemStackLong;
-import net.minecraft.inventory.InventoryBasic;
-import net.minecraft.item.ItemStack;
-import net.minecraftforge.fluids.FluidStack;
 
 import java.util.ArrayList;
 import java.util.List;

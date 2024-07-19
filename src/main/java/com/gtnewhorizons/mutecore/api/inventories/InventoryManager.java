@@ -1,7 +1,7 @@
 package com.gtnewhorizons.mutecore.api.inventories;
 
 /*
-For logic
+ * For logic
  */
 public class InventoryManager {
 
